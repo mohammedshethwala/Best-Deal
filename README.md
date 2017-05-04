@@ -11,12 +11,6 @@ then start the Tomcat server.
 
 -----------------
 
-#Sales Manager & Store Manager login credentials:
-1. The username and password for the SalesManager and StoreManager are stored in MySql table called admin_login_details.
-2. StoreManager | Username: storemanager@gmail.com, Password: storemanager
-3. SalesManager | Username: salesmanager@gmail.com, Password: salesmanager
-
-------------------
 #All the new code for DealMatch Feature is in the class DealMatches.java
 
 #All the code for MySQL is in the class MySqlDataStoreUtilities
